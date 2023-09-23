@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://liu6-66.github.io/personal-site/",
+  "homepage": "https://liu6-66.github.io/personal_page/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/liu6-66/personal-site.git"
+    "url": "https://github.com/liu6-66/personal_page.git"
   },
   "engines": {
     "node": ">=14.x"
